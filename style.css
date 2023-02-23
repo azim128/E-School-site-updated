@@ -1,0 +1,43 @@
+*{
+    font-family: 'Poppins', sans-serif;
+}
+.Logo-main{
+    width: 198px;
+    height: 59px;
+}
+.pre-heading{
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 24px;
+    color: #FD511A;
+}
+ul{
+    list-style: none;
+}
+.main-heading{
+    font-style: normal;
+    font-weight: 700;
+    font-size: 48px;
+    line-height: 70px;
+    color: #000000;
+}
+.cards{
+    background: #F8FFFB;
+    border-radius: 10px;
+    width: 270px;
+    height: 270px;
+}
+.Herosection{
+    background: #F0FFF0;
+}
+
+img#dnmode {
+    position: fixed;
+    top: 139px;
+    left: -28px;
+    border: 2px solid rebeccapurple;
+    padding: 12px 40px;
+    border-radius: 30px;
+    background: rebeccapurple;
+}
